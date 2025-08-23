@@ -1,118 +1,209 @@
-# YOUR_USAID
-ABOUT ME !
-<!-- PROFILE HEADER WITH VIEW COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile views" />
-</p>
+# 🚀 Usaid Khan - Premium Portfolio Website
 
-<h1 align="center">Hi 👋, I'm  USAID</h1>
-<p align="center">
-  <a href="mailto:your.gotousaid@gmail.com"><img src="https://img.shields.io/badge/📧-your.gotousaid@gmail.com-blue?style=flat-square" alt="Email"></a>
-  <a href="https:www.linkedin.com/in/tousaidkhan"><img src="https://img.shields.io/badge/LinkedIn-Your_Linkedin-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
-  
-</p>
+A stunning, modern portfolio website built with cutting-edge design principles and premium aesthetics. This portfolio showcases a creative developer's work with smooth animations, glassmorphism effects, and an immersive user experience.
+
+## ✨ Features
+
+### 🎨 **Visual Design**
+- **Dark Mode Default** with sleek gradient accents
+- **Glassmorphism Effects** throughout the interface
+- **Particle System** with interactive background
+- **Gradient Typography** and neon accents
+- **Premium Animations** and micro-interactions
+- **Responsive Design** for all devices
+
+### 🔧 **Technical Features**
+- **Pure HTML5, CSS3, and JavaScript** - No heavy frameworks
+- **TailwindCSS** for rapid, utility-first styling
+- **Intersection Observer API** for scroll animations
+- **Canvas-based Particle System** for hero background
+- **CSS Grid & Flexbox** for modern layouts
+- **Performance Optimized** with lazy loading
+
+### 📱 **User Experience**
+- **Smooth Scroll** navigation with active link highlighting
+- **Loading Screen** with branded animation
+- **Floating Label Forms** with validation states
+- **Hover States** with premium transitions
+- **Mobile-First** responsive design
+- **Theme Toggle** with smooth transitions
+
+### 🎯 **Sections**
+
+#### 🏠 **Hero Section**
+- Fullscreen immersive introduction
+- Animated particle background with mouse parallax
+- Bold typography with gradient text effects
+- Call-to-action buttons with hover animations
+
+#### 👤 **About Section**
+- Modern card layout with glassmorphism
+- Profile image with glow effects
+- Statistics counter with animations
+- Engaging bio content
+
+#### 🛠️ **Skills Section**
+- Interactive skill cards with hover effects
+- Animated progress bars
+- Technology icons with brand colors
+- Staggered reveal animations
+
+#### 💼 **Projects Section**
+- Stunning project cards with glassmorphism
+- Hover effects with 3D transforms
+- Technology tags and live demo links
+- Masonry-style responsive grid
+
+#### 📧 **Contact Section**
+- Modern contact form with floating labels
+- Social media links with brand animations
+- Form validation and submission feedback
+- Glassmorphism contact cards
+
+## 🚀 Quick Start
+
+1. **Clone or Download** the repository
+2. **Open `index.html`** in your browser
+3. **Customize** the content with your information
+4. **Deploy** to your preferred hosting platform
+
+## 🎛️ Customization
+
+### Personal Information
+Update these sections in `index.html`:
+- **Name**: Change "USAID KHAN" in the hero section
+- **Email**: Update `usaidk.tech@gmail.com`
+- **LinkedIn**: Update the LinkedIn URL
+- **Bio**: Modify the about section content
+
+### Skills & Technologies
+Edit the `skillsData` array in `script.js`:
+```javascript
+const skillsData = [
+    { name: 'Your Skill', icon: 'fab fa-icon', level: 95 },
+    // Add more skills...
+];
+```
+
+### Projects
+Update the `projectsData` array in `script.js`:
+```javascript
+const projectsData = [
+    {
+        title: 'Your Project',
+        description: 'Project description...',
+        technologies: ['Tech1', 'Tech2'],
+        image: 'fas fa-icon',
+        link: 'https://demo-link.com',
+        github: 'https://github.com/your-repo'
+    },
+    // Add more projects...
+];
+```
+
+### Colors & Theming
+Modify CSS variables in `styles.css`:
+```css
+:root {
+    --primary: #6366f1;
+    --secondary: #8b5cf6;
+    --accent: #06b6d4;
+    --neon: #00ff88;
+}
+```
+
+## 🌟 Key Components
+
+### Particle System
+- Canvas-based animated background
+- Responsive particle count based on screen size
+- Interactive mouse parallax effects
+- Performance optimized with requestAnimationFrame
+
+### Glassmorphism Effects
+- Backdrop blur filters for modern aesthetics
+- Subtle transparency with border highlights
+- Layered glass cards throughout sections
+
+### Scroll Animations
+- Intersection Observer for performance
+- Staggered animations with custom delays
+- Smooth fade-in and slide-up effects
+
+### Theme System
+- Dark/light mode toggle with transitions
+- Local storage persistence
+- Smooth color transitions
+
+## 📱 Responsive Breakpoints
+
+- **Mobile**: 320px - 768px
+- **Tablet**: 768px - 1024px
+- **Desktop**: 1024px+
+- **Large Desktop**: 1440px+
+
+## ⚡ Performance Features
+
+- **Optimized Images**: Responsive image loading
+- **Lazy Loading**: Scroll-triggered content loading
+- **Debounced Events**: Optimized scroll and resize handlers
+- **CSS Transforms**: Hardware-accelerated animations
+- **Minimal Dependencies**: Pure JavaScript implementation
+
+## 🔧 Browser Support
+
+- **Chrome**: 60+
+- **Firefox**: 60+
+- **Safari**: 12+
+- **Edge**: 79+
+
+## 📦 File Structure
+
+```
+portfolio/
+├── index.html          # Main HTML file
+├── styles.css          # Custom CSS with animations
+├── script.js           # JavaScript functionality
+└── README.md           # Documentation
+```
+
+## 🎨 Design Inspiration
+
+This portfolio takes inspiration from:
+- **Apple's Design Language**: Clean, minimal aesthetics
+- **Dribbble Trends**: Modern web design patterns
+- **Awwwards Winners**: Premium interaction design
+- **Glassmorphism**: Frosted glass UI elements
+
+## 🚀 Deployment
+
+### GitHub Pages
+1. Push to GitHub repository
+2. Enable GitHub Pages in repository settings
+3. Select source branch (main/master)
+
+### Netlify
+1. Drag and drop folder to Netlify
+2. Automatic deployment and custom domain support
+
+### Vercel
+1. Import GitHub repository
+2. Automatic deployments on push
+
+## 🤝 Contributing
+
+Feel free to fork this project and customize it for your own portfolio. If you create something amazing, share it!
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 💬 Contact
+
+**Usaid Khan**
+- Email: usaidk.tech@gmail.com
+- LinkedIn: [linkedin.com/in/tousaidkhan](https://www.linkedin.com/in/tousaidkhan)
 
 ---
 
-## 🚀 Key Achievements
-- ⏱ **Reduced lead generation time** using Google Maps & LinkedIn scrapers  
-- 🕒 **Saved 5+ hours/week** via form automation (Sheets ▶ Email ▶ Slack)  
-- 🤖 **Deployed 24/7 AI support bots** on Telegram + OpenAI  
-- 📚 **Automated transcription → Q&A pipeline** with Qdrant  
-- 🔄 **Streamlined client onboarding** via Google Contacts automation  
-
----
-
-## 🛠️ Technical Skills
-
-<details>
-  <summary><strong>Programming 🔥</strong></summary>
-
-  - **Languages:** HTML5, CSS3, JavaScript, Python  
-  - **Frameworks & Tools:** GitHub, REST APIs, Agile, Figma, Qdrant Vector Store  
-</details>
-
-<details>
-  <summary><strong>Automation & AI 🤖</strong></summary>
-
-  - **No-Code AI & Workflows:** N8N, LangChain  
-  - **Bots & Integrations:** Telegram Bot API, Google Drive, Sheets, Email, Slack  
-</details>
-
-<details>
-  <summary><strong>Soft Skills 💬</strong></summary>
-
-  - Strong Communication, Collaboration  
-  - Problem-Solving, Quick Learner  
-  - Strategic Thinking, Adaptability  
-</details>
-
----
-
-## 🎓 Education
-
-**B.Sc. in Computer Science** (A+)<br>
-Aki’s Poona College of Arts, Commerce & Science (Savitribai Phule University)<br>
-_November 2022 – March 2025_
-
----
-
-## 📜 Certifications & Courses
-
-| Course                                                                          | Platform         |
-|---------------------------------------------------------------------------------|------------------|
-| Introduction to AI Automation with N8N & LangChain (No-Code)                   | Udemy            |
-| N8N – AI Agents, AI Automations & AI Voice Agents (No-Code!)                    | Udemy            |
-| CSS – Responsive Layouts with Flexbox & Grid                                     | LinkedIn Learning|
-| HTML – Modern Semantic Markup & Accessibility                                    | LinkedIn Learning|
-| Certified Webmaster JavaScript Specialist                                       | LinkedIn / Mozilla|
-
----
-
-## 🚧 Major Projects
-
-### GoogleMapsScraper (API-less)
-> Fully functional Maps scraper without official APIs; extracts & customizes business data.
-
-### LinkedInProfile Scraper
-> Cookieless LinkedIn scraper (Ghost API) → data to Slack + Google Sheets logging.
-
-### Chat with Documents (Transcription + Qdrant)
-> Audio → transcription → index in Qdrant → AI‐powered Q&A over your docs.
-
----
-
-## 🌐 Web & Automation Showcase
-
-| Project                          | Description                                                                                                                                         | Tech Stack                             |
-|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| Traffic Management Website       | Responsive frontend for traffic control dashboards.                                                                                                  | HTML, CSS, JavaScript                  |
-| Form Automation & Notification   | User form → Google Sheets → email confirmation → Slack notification.                                                                                 | N8N, Google Sheets, Email, Slack       |
-| Client Request Handler           | Sheets trigger → assign to team → send thank-you email → add to Google Contacts.                                                                     | N8N, Google Sheets, Email, Contacts    |
-| ChatModel in N8N using OpenAI    | Real-time AI chat interface built entirely in N8N.                                                                                                  | N8N, OpenAI                            |
-| Telegram Chatbot                 | Automated user interactions & service workflows.                                                                                                    | Telegram Bot API, N8N                  |
-| Google Transcription Integration | Drive upload → transcription → route to Slack / Notion / Airtable per workflow.                                                                     | Google Drive, Slack, Notion, Airtable |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USAID&show_icons=true&theme=radical" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USAID&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-<details>
-  <summary><strong>👋 Pronunciation & Languages</strong></summary>
-
-- **English**, **Urdu**, **Hindi**
-</details>
-
----
-
-<p align="center">
-  Made with ❤️ and ☕
-</p>
+⭐ **If you like this portfolio, please give it a star!** ⭐
