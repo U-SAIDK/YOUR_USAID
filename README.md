@@ -1,5 +1,13 @@
 <div align="center">
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,25:001122,50:003366,75:0055AA,100:00E7FF&text=USAID%20KHAN&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20DevOps%20Engineer%20•%20Cloud%20Engineer&descAlignY=58"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=1200&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Microservices;DevOps+Automation+Engineer;Docker+%7C+Kubernetes+%7C+Cloud;AI+Powered+Applications;Linux+Enthusiast;BUILD+•+AUTOMATE+•+DEPLOY+•+SCALE"/>
+
+<br><br>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00E7FF&center=true&vCenter=true&width=1000&lines=USAID+KHAN;Software+Engineer;DevOps+Engineer;Cloud+%26+AI+Enthusiast;BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY+%E2%80%A2+SCALE" />
 
 <br>
